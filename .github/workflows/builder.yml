@@ -1,4 +1,4 @@
-name: Build NexusVault Executable
+name: Build NexusVault Executable 
 
 on:
   push:
